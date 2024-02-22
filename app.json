@@ -25,6 +25,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "expo": {
+      "android": {
+        "config": {
+          "googleMaps": {
+            "apiKey": "AIzaSyBkzHts-9ztV_OQoKRbjN0BO3Xnu7CGTqg"
+          }
+        }
+      }
     }
   }
 }
